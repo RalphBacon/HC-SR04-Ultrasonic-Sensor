@@ -2,7 +2,7 @@
 Detect obstacles on your robot buggy with this ultrasonic device
 
 # See video #103 at https://www.youtube.com/RalphBacon
-(Direct link to video: )
+(Direct link to video: https://youtu.be/bAMVzUmEcGY)
 
 My 2WD (two-wheel drive) buggy needs some sort of obstacle avoidance sensor so the HC-SR04 I've had in my components drawer since my PIC days came out. Using this ultrasonic detector is easy and gives accurate distance results up to about 3cm from the device.
 
